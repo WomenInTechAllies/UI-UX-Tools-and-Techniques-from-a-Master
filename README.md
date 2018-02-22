@@ -50,12 +50,12 @@ UI / UX Tools and Techniques from a Master - w/Gary Meyer 2/21/2018
 - [Material Design Palette Generator](http://www.materialpalette.com/)
 - [Ambiance](http://ambiance.somethingjustlikethis.com/)
 - [Color Hunt](http://colorhunt.co/)
-- [Brand Coolors](https://brandcolors.net/)
-#### Gradients
-..- [Grabient](https://www.grabient.com/)
-..- [CoolHue](https://webkul.github.io/coolhue/)
-..- [WebGradients](https://webgradients.com/)
-..- [Gradients Party](https://gradients.party/)
+- [Brand Coolors](https://brandcolors.net/)<br/>
+- **Gradients**
+- [Grabient](https://www.grabient.com/)
+- [CoolHue](https://webkul.github.io/coolhue/)
+- [WebGradients](https://webgradients.com/)
+- [Gradients Party](https://gradients.party/)
 
 ### Photos
 - [Unsplash](unsplash.com)
