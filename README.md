@@ -1,6 +1,8 @@
 # UI-UX-Tools-and-Techniques-from-a-Master
 UI / UX Tools and Techniques from a Master - w/Gary Meyer 2/21/2018
 
+## https://www.meetup.com/Women-in-Tech-Allies/events/243370497/
+
 ### Gary's Contact info:
 [LinkedIn](https://www.linkedin.com/in/gcmeyer/) | [Twitter](https://twitter.com/g_c_meyer) | [Dribbble](https://dribbble.com/gcmeyer) | [Instagram](https://www.instagram.com/g_c_meyer/) | [Website](http://garydo.es)
 
